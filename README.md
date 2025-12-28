@@ -68,6 +68,10 @@ upscale_1440p_h264_cqp.bat "D:\OBS\record.mkv"
 input_1440p_H264_CQP.mp4
 ```
 
+### 참고
+
+기본적으로 쓰고 싶은 bat 쓰면 된다. 가령 1080p를 vp09코덱으로 변경하고 싶다면 1152 bat 쓰면 됨.
+
 ---
 
 ## 4. 배치 파일 특징
